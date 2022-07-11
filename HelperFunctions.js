@@ -37,7 +37,7 @@ function initialise(){
         fill(255);
       }
       rect(i1*w,height-arr[i1],w,arr[i1]);
-      text(String(i1),i1*w,height/2);
+      // text(String(i1),i1*w,height/2);
       // text(String(arr[i]),i*w,height/2+20);
     }
   }

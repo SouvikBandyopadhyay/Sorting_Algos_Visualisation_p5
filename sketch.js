@@ -30,7 +30,7 @@ function setup() {
   // b4.position(30*(width/5),0);
   // b5.position(40*(width/5),0);
 
-  createCanvas(600, 400);
+  createCanvas(windowWidth, 2*windowHeight/3);
   
   background(220);
 
